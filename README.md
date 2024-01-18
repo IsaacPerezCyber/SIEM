@@ -21,25 +21,57 @@ In this lab I will configure and Deploy Azure Resources such as Virtual Machines
 <p align="center">
 Create a resource group: <br/>
 
-
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/5970b9c9-7043-416e-aaa7-c63794b61304
-
-
 
 <br />
 <br />
 <p align="center">
 Create a Virtual Machine:  <br/>
 
-
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/43b9e517-1f1a-4922-b636-338c19cdd045
 
 <p align="center">
 <ins>It will take a moment and then you should see this:</ins> <br/>
-<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="60%" />
+<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
+
+<br />
+<br />
+
+<p align="center">
+<ins>Enable Microsoft Defender for Cloud:</ins> <br/>
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eec687bf-e220-46d9-bd54-4a539fa66e0a
+
+
+<br />
+<br />
+
+<p align="center">
+<ins>We want to configure Just in Time Policy:</ins> <br/>
 
 
 
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/a7bfa792-dc5c-415e-a851-ca2367a5f1ca
+
+
+
+<br />
+<br />
+
+
+<p align="center">
+<ins>It will take a moment and then you should see this:</ins> <br/>
+<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
+
+
+<br />
+<br />
+
+
+
+<p align="center">
+<ins>It will take a moment and then you should see this:</ins> <br/>
+<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
 
 
 <br />
