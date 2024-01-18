@@ -174,7 +174,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/57bf063c-a24b-43fe-8eed-
 
 
 <p align="center">
-We are now monitoring live alerts from the persistent "malicious task : <br/>
+We are now monitoring live alerts from the persistent "malicious task" : <br/>
 
 
 
