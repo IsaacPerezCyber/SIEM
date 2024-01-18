@@ -113,7 +113,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-
 <br />
 
 <p align="center">
-<ins>Utilize KQL to generate Security Logs in Sentinel:</ins> <br/>
+<ins>Utilize KQL to populate Security Logs in Sentinel:</ins> <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-4eef47db0284
 
@@ -130,18 +130,45 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-
 <br />
 <br />
 
-<p align="center">
-<ins>Utilize KQL to generate Security Logs in Sentinel:</ins> <br/>
-
-https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-4eef47db0284
-
-<br />
-<br />
 
 <p align="center">
 <ins> Change local Policy in VM :</ins> <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d7d9ce8-7a17-4bfc-ad78-046964f7e529
+
+
+
+<br />
+<br />
+
+<p align="center">
+<ins> Create task schedule in vm to generate log traffic in Sentinel :</ins> <br/>
+<img src="https://i.imgur.com/6qXCbXg.png"  width="70%" />
+
+
+<br />
+<br />
+
+<p align="center">
+<ins> Lastly, we write some KQL logic to alert us of the Task Scheduler :</ins> <br/>
+
+
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/57bf063c-a24b-43fe-8eed-1ff3f222faea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
