@@ -34,6 +34,6 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d2e02ba-3af7-419c-acd8-
 <br />
 <br />
 Intial Setup of the Domain controller in Active Directory Services:  <br/>
-<img src="https://i.imgur.com/RIXyl3i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
