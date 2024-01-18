@@ -22,18 +22,25 @@ In this lab I will configure and Deploy Azure Resources such as Virtual Machines
 Create a resource group: <br/>
 
 
-
-https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d2e02ba-3af7-419c-acd8-4897b4c0084b
-
-
-
-
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/5970b9c9-7043-416e-aaa7-c63794b61304
 
 
 
 <br />
 <br />
-Intial Setup of the Domain controller in Active Directory Services:  <br/>
+<p align="center">
+Create a Virtual Machine:  <br/>
+
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/43b9e517-1f1a-4922-b636-338c19cdd045
+
+<p align="center">
+<ins>It will take a moment and then you should see this:</ins> <br/>
+<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="60%" />
+
+
+
+
 
 <br />
 <br />
