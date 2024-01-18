@@ -118,12 +118,30 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-4eef47db0284
 
 
+<br />
+<br />
+
+<p align="center">
+<ins>Check security logs in the remote machine to verify a successful logon:</ins> <br/>
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-ec8152397e5f
 
 
+<br />
+<br />
 
+<p align="center">
+<ins>Utilize KQL to generate Security Logs in Sentinel:</ins> <br/>
 
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-4eef47db0284
 
+<br />
+<br />
 
+<p align="center">
+<ins> Change local Policy in VM :</ins> <br/>
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d7d9ce8-7a17-4bfc-ad78-046964f7e529
 
 
 
