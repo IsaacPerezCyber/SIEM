@@ -1,7 +1,29 @@
 <H1>Azure Cloud Detection Using Sentinel</H1>
 
 <h2>Description</h2>
-In this lab I will configure and Deploy Azure Resources such as Virtual Machines and Microsoft Sentinel. Demonstrate and configure windows security policies and event logs as well as best practices. Utilize Data Connectors to bring data into Sentinel for Analysis.
+
+- Configure and Deploy Azure Resources
+
+- Log Analytics Workspace
+    
+- Virtual Machines
+    
+- Azure Sentinel
+
+- Implement Network and Virtual Machine Security Best Practices
+
+- Utilize Data Connectors to bring data into Sentinel for Analysis
+
+- Understand Windows Security Event logs
+
+- Configure Windows Security Policies
+
+- Utilize KQL (Kusto Query Language) to query Logs
+
+- Write Custom Analytic Rules to detect Microsoft Security Events
+
+- Utilize MITRE ATT&CK to map adversary tactics, techniques, detection, and mitigation procedures
+
 <br />
 
 
@@ -31,14 +53,14 @@ Create a Virtual Machine:  <br/>
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/43b9e517-1f1a-4922-b636-338c19cdd045
 
 <p align="center">
-<ins>It will take a moment and then you should see this:</ins> <br/>
+It will take a moment and then you should see this: <br/>
 <img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
 
 <br />
 <br />
 
 <p align="center">
-<ins>Enable Microsoft Defender for Cloud:</ins> <br/>
+Enable Microsoft Defender for Cloud: <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eec687bf-e220-46d9-bd54-4a539fa66e0a
 
@@ -47,7 +69,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eec687bf-e220-46d9-bd54-
 <br />
 
 <p align="center">
-<ins>We want to configure Just in Time Policy:</ins> <br/>
+We want to configure Just in Time Policy: <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/a7bfa792-dc5c-415e-a851-ca2367a5f1ca
 
@@ -56,10 +78,10 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/a7bfa792-dc5c-415e-a851-
 
 
 <p align="center">
-<ins>Then we make sure to set our connection rule:</ins> <br/>
+Then we make sure to set our connection rule: <br/>
 <img src="https://i.imgur.com/xsUmwFW.jpeg" height="" width="70%" />
 <p align="center">
-<ins>Confirm:</ins> <br/>
+Confirm:<br/>
 <img src="https://i.imgur.com/i2c66NJ.jpeg" height="" width="70%" />
 
 
@@ -69,7 +91,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/a7bfa792-dc5c-415e-a851-
 
 
 <p align="center">
-<ins>Create Microsoft Sentinel Workspace:</ins> <br/>
+Create Microsoft Sentinel Workspace: <br/>
 
 
 
@@ -81,7 +103,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/fd9a699a-1eb8-4118-92d0-
 <br />
 
 <p align="center">
-<ins>Configure data collection rule for log integration in Microsoft Sentinel:</ins> <br/>
+Configure data collection rule for log integration in Microsoft Sentinel:<br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eb745ca2-7577-4f93-a906-1a961536bf4f
 
@@ -89,22 +111,22 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eb745ca2-7577-4f93-a906-
 <br />
 
 <p align="center">
-<ins>We make sure to confirm the log connection:</ins> <br/>
-<img src="https://i.imgur.com/QovmfgQ.png"  width="70%" />
+We make sure to confirm the log connection: <br/>
+<img src="https://i.imgur.com/QovmfgQ.png" height="51%" width="30%" />
 
 <br />
 <br />
 
 <p align="center">
-<ins>Now we RDP into the VM to generate traffic on the Sentinel Logs:</ins> <br/>
-<img src="https://i.imgur.com/ttFTvOB.jpeg" height="" width="70%" />
+Now we RDP into the VM to generate traffic on the Sentinel Logs:<br/>
+<img src="https://i.imgur.com/ttFTvOB.jpeg" height="" width="80%" />
 
 
 <br />
 <br />
 
 <p align="center">
-<ins>Check security logs in the remote machine to verify a successful logon:</ins> <br/>
+Check security logs in the remote machine to verify a successful logon: <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-ec8152397e5f
 
@@ -113,7 +135,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-
 <br />
 
 <p align="center">
-<ins>Utilize KQL to populate Security Logs in Sentinel:</ins> <br/>
+Utilize KQL to populate Security Logs in Sentinel: <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-4eef47db0284
 
@@ -121,18 +143,9 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-
 <br />
 <br />
 
-<p align="center">
-<ins>Check security logs in the remote machine to verify a successful logon:</ins> <br/>
-
-https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-ec8152397e5f
-
-
-<br />
-<br />
-
 
 <p align="center">
-<ins> Change local Policy in VM :</ins> <br/>
+ Change local Policy in VM : <br/>
 
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d7d9ce8-7a17-4bfc-ad78-046964f7e529
 
@@ -142,7 +155,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d7d9ce8-7a17-4bfc-ad78-
 <br />
 
 <p align="center">
-<ins> Create task schedule in vm to generate log traffic in Sentinel :</ins> <br/>
+ Create task schedule in vm to generate log traffic in Sentinel : <br/>
 <img src="https://i.imgur.com/6qXCbXg.png"  width="70%" />
 
 
@@ -150,7 +163,7 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/9d7d9ce8-7a17-4bfc-ad78-
 <br />
 
 <p align="center">
-<ins> Lastly, we write some KQL logic to alert us of the Task Scheduler :</ins> <br/>
+ Lastly, we write some KQL logic to alert us of the Task Scheduler : <br/>
 
 
 
