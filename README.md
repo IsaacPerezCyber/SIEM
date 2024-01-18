@@ -113,8 +113,12 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-
 <br />
 
 <p align="center">
-<ins>It will take a moment and then you should see this:</ins> <br/>
-<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
+<ins>Utilize KQL to generate Security Logs in Sentinel:</ins> <br/>
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/ca5e63ae-7aed-4b17-82a6-4eef47db0284
+
+
+
 
 
 
