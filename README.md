@@ -69,9 +69,57 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/a7bfa792-dc5c-415e-a851-
 
 
 <p align="center">
+<ins>Create Microsoft Sentinel Workspace:</ins> <br/>
+
+
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/fd9a699a-1eb8-4118-92d0-bb9514b397a6
+
+
+
+<br />
+<br />
+
+<p align="center">
+<ins>Configure data collection rule for log integration in Microsoft Sentinel:</ins> <br/>
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eb745ca2-7577-4f93-a906-1a961536bf4f
+
+<br />
+<br />
+
+<p align="center">
+<ins>We make sure to confirm the log connection:</ins> <br/>
+<img src="https://i.imgur.com/QovmfgQ.png"  width="70%" />
+
+<br />
+<br />
+
+<p align="center">
+<ins>Now we RDP into the VM to generate traffic on the Sentinel Logs:</ins> <br/>
+<img src="https://i.imgur.com/ttFTvOB.jpeg" height="" width="70%" />
+
+
+<br />
+<br />
+
+<p align="center">
+<ins>Check security logs in the remote machine to verify a successful logon:</ins> <br/>
+
+https://github.com/IsaacPerezCyber/SIEM/assets/67014769/20ab1ef0-d3cd-48f9-8c43-ec8152397e5f
+
+
+<br />
+<br />
+
+<p align="center">
 <ins>It will take a moment and then you should see this:</ins> <br/>
 <img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
 
 
-<br />
-<br />
+
+
+
+
+
+
