@@ -49,19 +49,18 @@ https://github.com/IsaacPerezCyber/SIEM/assets/67014769/eec687bf-e220-46d9-bd54-
 <p align="center">
 <ins>We want to configure Just in Time Policy:</ins> <br/>
 
-
-
 https://github.com/IsaacPerezCyber/SIEM/assets/67014769/a7bfa792-dc5c-415e-a851-ca2367a5f1ca
-
-
 
 <br />
 <br />
 
 
 <p align="center">
-<ins>It will take a moment and then you should see this:</ins> <br/>
-<img src="https://i.imgur.com/kreBoa3.jpeg" height="" width="70%" />
+<ins>Then we make sure to set our connection rule:</ins> <br/>
+<img src="https://i.imgur.com/xsUmwFW.jpeg" height="" width="70%" />
+<p align="center">
+<ins>Confirm:</ins> <br/>
+<img src="https://i.imgur.com/i2c66NJ.jpeg" height="" width="70%" />
 
 
 <br />
